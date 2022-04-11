@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-pregnancy",
+  "private_key_id": "fe4f73d1a40f64f6edbae237318cbcdd0d4a9d3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQYHy6g15agXc1\ntobv911JSRk8Je+mnaCN4oRWXe18hm6ZcWZsBqjTVv/3tyarlvJi0nKG4JYCXhpw\nVgr22eFuXGao263/dhE10xeUYTyp3faKHj7uAVRgJ+XSV7JMc25Lirx7HplKkNiT\ne6DYXMXtZmICmlidTOWjoVnqg6/E9KfFc17z4c+rVEk1EiJEPg7cPJb4661/Iy/V\n6dw+KSXHDSg+OvZxTm61NlfgfMhkYn124XYuVoDtPayRoRPsgZY3X6aBbZJ/i7Z/\n84vanesXs93QjahL/lzj2hrBEimGdKCiwQI2ggk/BInio1yq8fynkNtzz4zfJyH5\nX34Kl6P/AgMBAAECggEAAtOfLYgL5va47quVRompYTMJFCUXMfczep1DadN3jL2v\nDA1tBWyd9Ce0ZdVHcKP8a+EV5++Dg4yNgcLvGDhZnwkFFriliYzDHbKPBOzG1mAn\noKDV95MkFtvatolyaE4sPyNguRv3J79G1jn2tk9R4R0YVySBdQomRtPBlTaHaiVr\nXUXdcbmFBwDNZRI2050pGhMnl1wTV6w5WKNh3EdAz5tuuDBc32xaw2drVTKvtogx\ngUPnJ8I1IfyOJUjLUhzIMEu2TbIC7ibIZXbZSdlNBHvefLafOuAFuYh77zP0gi90\ndhZ9EGHHSnotZt0/nt7YL/iEyURKqp4tkZZHa86W1QKBgQDDPEIpqYeFAvr11T0t\nuzlzB+gCOXB+XWtJTVZXeMBYdIz6ZSUAr7MsiRQbm0JnThGEZ3XQza48mBXMzZjF\n5EpQJGJyV5HIy407heyNvOY6VqQy/LcbrfoFnPdSSguKS08kw4HIUAFcwi7bjuDe\nA3JXUsTyGeweSjLrHW+ykAHmDQKBgQC9T/wiHnI+Q1j8plHA3+4ZniFfMd7sEIG6\nWRsCwP9R1EwzHGgCSekxQvtcunXVQxtGinX/MA/6O7hCCjHNpEcD8FU19SnGHoNy\n4wiyreP4Tc2SureTXIuIlhy6rlBmqPKjP4YaqXZDsLcjnWQvqWvDLQgYKSGD1BeX\nX1Q1w6VbOwKBgGbFF4bayI2JzhUN1JB4F3un08cn+UFrZ4hEf4i39XgakgNUrq+3\nzTdKSR1nEwNSIwJxe6EYQ/l9jSwrpZm13DBnlrLdyc3K6GNG0giiQQbAiNqWEMUv\nRYci40Wb2ItJrTWK/Iw3ISB0zzmf8lqrscqptSZD4vjm0frVmfCCwZ0ZAoGBAKM8\nms3Yru2dKNgBmbDT5fzU6zWoTO4Edbf3KWFAhWdLxcC0l8KRdK/zb8bPSNdxG83B\nimlWShCc+g6Ht9X39vwgeXkjQrgAi5u+xDs90brDa6U/txcrz20g8vjNYaqDt2So\nW7wVr1JCyEe/aSnnznHnHHmozatccFMn8fbCEo0NAoGAHoCHSrdkndKg7+906sQp\nwCA2aXvLZZzwRMWaoOKoKE/I5c5mgbQIEgG0r2U4Mooy6meoX/si64Jf0cmm8S0b\noXTZR6U/RHaKRER8oDk/ttpH7c7BT8+vTdHpob+sH+NEFd6VfmbDsJY6vOD9iY2p\nz3KKCvEGXyDiEitXiExulnM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-318@agent-pregnancy.iam.gserviceaccount.com",
+  "client_id": "102936422383590833781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-318%40agent-pregnancy.iam.gserviceaccount.com"
+}
